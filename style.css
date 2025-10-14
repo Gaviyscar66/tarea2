@@ -67,7 +67,8 @@ body {
     }
 
 .tipos img{
-    width: 250px;
+    width: 100%;
+    height: 150px;
     }
 
 .tipos h2 {
